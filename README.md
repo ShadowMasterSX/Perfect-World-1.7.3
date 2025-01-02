@@ -12,7 +12,7 @@ i work hard every day on my Perfect world Servers my best Project is 1.7.3, olso
 
 
 
-how to install (ubuntu 22 and Debian 11)
+# how to install (ubuntu 22 and Debian 11)
 
 
 # architecture i386
@@ -20,7 +20,7 @@ dpkg --add-architecture i386; apt update && apt upgrade -y
 
 
 
- Software you ill need
+# Software you ill need
 
 
 
@@ -28,7 +28,7 @@ apt-get install -y libstdc++6:i386 libxml2:i386 mariadb-server apache2 phpmyadmi
 
 
 
- Setup Mariadb
+# Setup Mariadb
 
 mysql_secure_installation
 
