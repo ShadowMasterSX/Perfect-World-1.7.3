@@ -8,7 +8,7 @@ i work hard every day on my Perfect world Servers my best Project is 1.7.3, olso
 1.7.3 has  a few bugs, but i ill fixed
 
 
-how to install (ubuntu 22 and Debian 11)
+# how to install (ubuntu 22 and Debian 11)
 
 
 # architecture i386
