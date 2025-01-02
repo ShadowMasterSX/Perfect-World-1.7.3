@@ -1,41 +1,34 @@
 # Perfect-World-1.7.3
 
-​Good Day .
-
-
+​Good Day . My name is Dragenheard
 
 i work hard every day on my Perfect world Servers my best Project is 1.7.3, olso i work on 1.7.6 but its works not right at now.
 
-
-
-1.7.3 has  a few bugs, but i ill fixed
-
+### 1.7.3 has  a few bugs, but i ill fixed
 
 
 # how to install (ubuntu 22 and Debian 11)
 
-
-# architecture i386
+## architecture i386
 ````
 dpkg --add-architecture i386; apt update && apt upgrade -y
 ````
 
-# Software you ill need
+## Software you ill need
 
 ````
 apt-get install -y libstdc++6:i386 libxml2:i386 mariadb-server apache2 phpmyadmin php-mbstring php-zip php-gd php-json php-curl default-jdk p7zip-full
 ````
 
 
-# Setup Mariadb
+## Setup Mariadb
 ````
 mysql_secure_installation
 ````
 
+# Install server
 
-## Install server
-
-# Download the Server
+## Download the Server
 ````
 https://drive.google.com/file/d/1-BE0Btosp9lH67maFbWreESQgf3eDcTK/view?usp=drive_link
 ````
@@ -45,7 +38,7 @@ https://drive.google.com/file/d/1-BE0Btosp9lH67maFbWreESQgf3eDcTK/view?usp=drive
 cd /; 7z x Perfect_World_Server_1.7.3.zip
 ````
 
-# ad the Server to the /etc/hosts
+# add the Server to the /etc/hosts
 ````
 nano /etc/hosts
 ````
@@ -103,7 +96,7 @@ https://forum.ragezone.com/threads/pwadmin-remix-version-1.1238670/
 cd /home/; chmod 777 -R *
 ````
 
-# to start / stop the server
+# to manage the server
 
 # start the server
 ````
@@ -121,4 +114,4 @@ cd /home/; chmod 777 -R *
 ````
 
 
-Have fun and njoy my Project
+# Have fun and njoy my Project
