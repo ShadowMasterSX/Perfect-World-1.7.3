@@ -11,7 +11,7 @@ i work hard every day on my Perfect world Servers my best Project is 1.7.3, olso
 
 ## architecture i386
 ````
-dpkg --add-architecture i386; apt update && apt upgrade -y
+dpkg --add-architecture i386; apt-get update && apt-get upgrade
 ````
 
 ## Software you ill need
